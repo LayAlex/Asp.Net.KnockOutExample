@@ -46,5 +46,4 @@ web_client/dist/
 web_client/app-builds
 
 #some .net build packages
-/Server/packages
-/WcfService/packages
+/KnockoutCrudExample/packages
